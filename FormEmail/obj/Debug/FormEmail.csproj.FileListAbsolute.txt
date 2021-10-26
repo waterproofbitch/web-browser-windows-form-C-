@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\FormEmail\FormEmail\bin\Debug\FormEmail.exe.config
+C:\Users\User\source\repos\FormEmail\FormEmail\bin\Debug\FormEmail.exe
+C:\Users\User\source\repos\FormEmail\FormEmail\bin\Debug\FormEmail.pdb
+C:\Users\User\source\repos\FormEmail\FormEmail\obj\Debug\FormEmail.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FormEmail\FormEmail\obj\Debug\FormEmail.Form1.resources
+C:\Users\User\source\repos\FormEmail\FormEmail\obj\Debug\FormEmail.Properties.Resources.resources
+C:\Users\User\source\repos\FormEmail\FormEmail\obj\Debug\FormEmail.csproj.GenerateResource.cache
+C:\Users\User\source\repos\FormEmail\FormEmail\obj\Debug\FormEmail.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FormEmail\FormEmail\obj\Debug\FormEmail.exe
+C:\Users\User\source\repos\FormEmail\FormEmail\obj\Debug\FormEmail.pdb
+C:\Users\User\source\repos\FormEmail\FormEmail\obj\Debug\FormEmail.WebView.resources
